@@ -35,7 +35,7 @@ Save your image in the repository root as `preview.jpg` (or your image file name
 +-------------------------------------------------------------------------+
 
 <div align="center">
-  <img src="preview.jpg" alt="Seamless Background Reconstruction Before and After" width="750" />
+  <img src="AI_Banner_Remover.jpg" alt="Seamless Background Reconstruction Before and After" width="750" />
 </div>
 
 ---
