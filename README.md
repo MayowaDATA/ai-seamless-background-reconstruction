@@ -80,5 +80,5 @@ Save your image in the repository root as `preview.jpg` (or your image file name
 
 ## 👤 Mayowa Adeboye
 
-* **Portfolio:** [linkeldn](https://adeboyemayowa86.wixsite.com/data-analytics) | [GitHub](https://github.com/MayowaDATA)
+* **Portfolio:** [linkeldn](https://linkedin.com/in/mayowaadeboye) | [GitHub](https://github.com/MayowaDATA)
 * **Focus:** Data Analytics, Generative AI & Computer Vision Workflows
